@@ -39,4 +39,6 @@
 ### 能力和性格測試是否成為一個合格的QA
 - https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/472812/
 ### 手動測試與自動化測試經驗分享
-- https://www.mdeditor.tw/pl/gghe/zh-tw
+- https://www.mdeditor.tw/pl/gghe/zh-tw  
+### 中國測試討論區  
+- http://testerhome.com/questions
